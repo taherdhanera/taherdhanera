@@ -1,47 +1,62 @@
 # Taher Dhanerawala
 
-AI engineer focused on agent workflows, full-stack automation, and practical systems that turn messy operational work into measurable execution loops.
+AI engineer building agentic workflow systems, full-stack automation, and proof-heavy tools for teams that need fast execution without losing reliability.
 
-I build products and tooling around:
+I work best where the problem is messy, the deadline is real, and the output has to be shipped, tested, documented, and easy to verify.
+
+## Focus
 
 - AI-assisted engineering workflows
+- GitHub, Gmail, browser, CI, and payout-signal automation
 - Full-stack web apps and SaaS prototypes
-- GitHub, Gmail, CI, and browser automation
 - Bounty, issue, and pull request triage systems
 - Generative media and creator workflow tools
-- Production-focused Next.js, TypeScript, Python, and API integrations
+- Production-focused TypeScript, Python, Node.js, Next.js, and API integrations
 
-## Current Focus
+## Recent Proof Areas
 
-Building reliable agent-style workflows that monitor external signals, rank urgency, clear blockers, and produce auditable proof of work.
+### BountyOps Claim Guardian
 
-Recent work includes:
+An AI-assisted operations workflow for monitoring GitHub issues, pull requests, CI status, claim/payment signals, and competitor activity.
 
-- **BountyOps Claim Guardian**: an AI-assisted workflow for monitoring GitHub issues, pull requests, CI status, claim/payment signals, and competitor activity.
-- **Agent workflow demos**: browser/Gmail/GitHub loops for action-oriented operations instead of passive dashboards.
-- **Full-stack automation prototypes**: practical tools for teams that need faster delivery, cleaner follow-up, and less manual coordination.
+It is designed around a practical loop:
 
-## Selected Public Work
+- track external signals
+- rank urgency
+- identify contributor-side blockers
+- keep claims and PRs visible with evidence
+- produce compact checkpoints for follow-up
 
-- [bountyops-claim-guardian-demo](https://github.com/taherdhanera/bountyops-claim-guardian-demo)
-- [agent-playground](https://github.com/taherdhanera/agent-playground)
-- [bloqade-circuit](https://github.com/taherdhanera/bloqade-circuit)
+Repo: [bountyops-claim-guardian-demo](https://github.com/taherdhanera/bountyops-claim-guardian-demo)
+
+### Agent Workflow Demos
+
+Browser, Gmail, GitHub, and CLI loops for action-oriented work: reading live state, deciding what matters, taking scoped action, and recording proof instead of leaving passive dashboards behind.
+
+Repo: [agent-playground](https://github.com/taherdhanera/agent-playground)
+
+### Open Source / Bounty Contributions
+
+I contribute focused PRs with small diffs, demo evidence, validation notes, and clear scope boundaries. Recent work includes AI workflow tooling, CI/deployment hardening, security-focused config cleanup, and scientific/research workflow assistants.
+
+Examples:
+
+- [SCIBASE.AI](https://github.com/taherdhanera/SCIBASE.AI)
 - [SecuritySkills](https://github.com/taherdhanera/SecuritySkills)
-- [taherdhanera.github.io](https://github.com/taherdhanera/taherdhanera.github.io)
+- [bloqade-circuit](https://github.com/taherdhanera/bloqade-circuit)
 
-## What I Am Good At
+## What I Bring
 
-- Moving from ambiguous requirements to scoped implementation
-- Building small, shippable systems quickly
-- Debugging CI, PR, and deployment blockers
-- Designing automation loops with clear checkpoints and evidence
-- Writing practical documentation that helps teams maintain the work
+- I turn ambiguous requirements into scoped implementation quickly.
+- I build small systems that can be tested, demonstrated, and maintained.
+- I write concise implementation evidence so reviewers know what changed and why.
+- I debug CI, PR, deployment, and automation blockers with a bias for concrete next action.
+- I care about human-quality communication: no spam, no noise, no inflated claims.
 
 ## Tech
 
-TypeScript, JavaScript, Python, React, Next.js, Node.js, GitHub CLI/API, Gmail workflows, browser automation, Vercel, CI triage, Markdown systems, automation orchestration.
+TypeScript, JavaScript, Python, React, Next.js, Node.js, GitHub CLI/API, browser automation, Gmail workflows, Vercel, CI triage, Markdown systems, API integrations, and automation orchestration.
 
-## Work Style
+## Working Style
 
-I prefer fast-moving teams, concrete ownership, clear proof of progress, and work that ships.
-
+Fast-moving, ownership-heavy, evidence-driven. I prefer practical systems that ship, get used, and keep improving through live feedback.
