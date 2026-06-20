@@ -4,6 +4,14 @@ AI engineer building agentic workflow systems, full-stack automation, and proof-
 
 I work best where the problem is messy, the deadline is real, and the output has to be shipped, tested, documented, and easy to verify.
 
+## Start Here
+
+| Project | What it shows | Links |
+| --- | --- | --- |
+| BountyOps Claim Guardian | Reasoning-agent operations loop for GitHub, inbox-style signals, CI state, bounty claims, blocker detection, and audit checkpoints. | [repo](https://github.com/taherdhanera/bountyops-claim-guardian-demo) / [live demo](https://taherdhanera.github.io/bountyops-claim-guardian-demo/) |
+| Portfolio demo hub | Public landing surface for product, automation, and agent workflow proof. | [repo](https://github.com/taherdhanera/taherdhanera.github.io) / [site](https://taherdhanera.github.io) |
+| BITBOX mobile scaffolds | Minimal Android and iOS WebView starter repos for quick app packaging. | [Android](https://github.com/taherdhanera/bitbox-scaffold-android) / [iOS](https://github.com/taherdhanera/bitbox-scaffold-ios) |
+
 ## Focus
 
 - AI-assisted engineering workflows
@@ -20,7 +28,7 @@ A public-safe reasoning-agent demo for protecting open-source bounty claims with
 
 Live demo: https://taherdhanera.github.io/bountyops-claim-guardian-demo/
 
-Star it if you are interested in:
+BountyOps is the best repo to start with if you are interested in:
 
 - GitHub, Gmail, CI, and API operations agents
 - conservative agent action policies
