@@ -13,6 +13,21 @@ I work best where the problem is messy, the deadline is real, and the output has
 - Generative media and creator workflow tools
 - Production-focused TypeScript, Python, Node.js, Next.js, and API integrations
 
+## Featured Project
+
+**[BountyOps Claim Guardian](https://github.com/taherdhanera/bountyops-claim-guardian-demo)**  
+A public-safe reasoning-agent demo for protecting open-source bounty claims without noisy comments. It monitors GitHub issues, PRs, CI/check state, claim markers, inbox-style signals, and competitor activity, then decides whether to act, wait, fix, or checkpoint.
+
+Live demo: https://taherdhanera.github.io/bountyops-claim-guardian-demo/
+
+Star it if you are interested in:
+
+- GitHub, Gmail, CI, and API operations agents
+- conservative agent action policies
+- bounty, issue, and PR monitoring
+- audit trails for long-running engineering work
+- practical AI automation beyond chat demos
+
 ## Recent Proof Areas
 
 ### BountyOps Claim Guardian
@@ -60,3 +75,7 @@ TypeScript, JavaScript, Python, React, Next.js, Node.js, GitHub CLI/API, browser
 ## Working Style
 
 Fast-moving, ownership-heavy, evidence-driven. I prefer practical systems that ship, get used, and keep improving through live feedback.
+
+## Contact
+
+Open to AI automation, agent workflow, full-stack product, and engineering-ops work where fast execution and clear evidence matter.
