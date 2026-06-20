@@ -8,9 +8,11 @@ I work best where the problem is messy, the deadline is real, and the output has
 
 | Project | What it shows | Links |
 | --- | --- | --- |
-| BountyOps Claim Guardian | Reasoning-agent operations loop for GitHub, inbox-style signals, CI state, bounty claims, blocker detection, and audit checkpoints. | [repo](https://github.com/taherdhanera/bountyops-claim-guardian-demo) / [live demo](https://taherdhanera.github.io/bountyops-claim-guardian-demo/) |
+| BountyOps Claim Guardian | Reasoning-agent operations loop for GitHub, inbox-style signals, CI state, bounty claims, blocker detection, no-spam action policy, and audit checkpoints. | [repo](https://github.com/taherdhanera/bountyops-claim-guardian-demo) / [live demo](https://taherdhanera.github.io/bountyops-claim-guardian-demo/) |
 | Portfolio demo hub | Public landing surface for product, automation, and agent workflow proof. | [repo](https://github.com/taherdhanera/taherdhanera.github.io) / [site](https://taherdhanera.github.io) |
 | BITBOX mobile scaffolds | Minimal Android and iOS WebView starter repos for quick app packaging. | [Android](https://github.com/taherdhanera/bitbox-scaffold-android) / [iOS](https://github.com/taherdhanera/bitbox-scaffold-ios) |
+
+Fastest proof: open [BountyOps Claim Guardian](https://github.com/taherdhanera/bountyops-claim-guardian-demo), then review the [live demo](https://taherdhanera.github.io/bountyops-claim-guardian-demo/) and architecture notes. It is the clearest public example of my current agentic operations work.
 
 ## Focus
 
@@ -35,6 +37,7 @@ BountyOps is the best repo to start with if you are interested in:
 - bounty, issue, and PR monitoring
 - audit trails for long-running engineering work
 - practical AI automation beyond chat demos
+- production-minded agent UX where the output is a dashboard, checkpoint, and clear next action
 
 ## Recent Proof Areas
 
