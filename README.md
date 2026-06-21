@@ -10,6 +10,10 @@ I work best where the problem is messy, external state changes quickly, and the 
 
 Flagship repo: **[BountyOps Claim Guardian](https://github.com/taherdhanera/bountyops-claim-guardian-demo)**, a public-safe reasoning-agent demo for GitHub bounty monitoring, CI checks, payout-risk triage, and no-spam claim protection.
 
+[Live demo](https://taherdhanera.github.io/bountyops-claim-guardian-demo/) / [Architecture](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/ARCHITECTURE.md) / [Workflow template](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/WORKFLOW_TEMPLATE.md)
+
+Open to paid AI automation, agent workflow, full-stack product, and engineering-ops work where speed and proof matter.
+
 ## Start Here
 
 | Project | What it shows | Links |
@@ -28,6 +32,13 @@ If you build GitHub, CI, inbox, bounty, recruiting, support, or release-ops agen
 2. [BountyOps architecture](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/ARCHITECTURE.md) for the agent decision policy.
 3. [BountyOps workflow template](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/WORKFLOW_TEMPLATE.md) if you want to adapt the pattern.
 4. [Portfolio hub](https://taherdhanera.github.io) for a broader public surface.
+
+## 90-Second Review Path
+
+1. Open the [live BountyOps dashboard](https://taherdhanera.github.io/bountyops-claim-guardian-demo/).
+2. Scan the action queue and evidence lanes.
+3. Read the [agent decision model](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/ARCHITECTURE.md).
+4. Copy the [workflow template](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/WORKFLOW_TEMPLATE.md) if the pattern fits your own GitHub, CI, inbox, support, recruiting, or release workflow.
 
 ## Focus
 
