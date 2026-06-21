@@ -41,6 +41,18 @@ If you build GitHub, CI, inbox, bounty, recruiting, support, or release-ops agen
 4. Read the [agent decision model](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/ARCHITECTURE.md).
 5. Copy the [workflow template](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/WORKFLOW_TEMPLATE.md) if the pattern fits your own GitHub, CI, inbox, support, recruiting, or release workflow.
 
+## Star-Worthy Public Surfaces
+
+| Surface | Why it is worth opening |
+| --- | --- |
+| [BountyOps live dashboard](https://taherdhanera.github.io/bountyops-claim-guardian-demo/) | Shows the product-style output first, not just a README. |
+| [BountyOps showcase](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/SHOWCASE.md) | Fast reviewer path for the problem, demo, architecture, and reusable pattern. |
+| [Workflow template](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/WORKFLOW_TEMPLATE.md) | Copyable schema for builders working on GitHub, CI, inbox, support, recruiting, or payment agents. |
+| [Operations playbook](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/OPERATIONS_PLAYBOOK.md) | Practical adaptation guide for teams that need no-spam automation and checkpointed decisions. |
+| [Public release](https://github.com/taherdhanera/bountyops-claim-guardian-demo/releases/tag/v0.1.0-public-demo) | Stable share link for the current public-safe demo package. |
+
+If BountyOps helps your own agent or automation work, the best support is to star the repo and share the live demo with builders who care about GitHub, CI, inbox, support, recruiting, or payout operations.
+
 ## Focus
 
 - AI-assisted engineering workflows
