@@ -1,8 +1,10 @@
 # Taher Dhanerawala
 
-AI engineer building agentic workflow systems, full-stack automation, and proof-heavy tools for teams that need fast execution without losing reliability.
+AI engineer building agentic workflow systems, GitHub automation, full-stack product demos, and proof-heavy tools for teams that need fast execution without losing reliability.
 
-I work best where the problem is messy, the deadline is real, and the output has to be shipped, tested, documented, and easy to verify.
+I work best where the problem is messy, external state changes quickly, and the output has to be shipped, tested, documented, and easy to verify.
+
+Flagship repo: **[BountyOps Claim Guardian](https://github.com/taherdhanera/bountyops-claim-guardian-demo)**, a public-safe reasoning-agent demo for GitHub bounty monitoring, CI checks, payout-risk triage, and no-spam claim protection.
 
 ## Start Here
 
@@ -12,7 +14,9 @@ I work best where the problem is messy, the deadline is real, and the output has
 | Portfolio demo hub | Public landing surface for product, automation, and agent workflow proof. | [repo](https://github.com/taherdhanera/taherdhanera.github.io) / [site](https://taherdhanera.github.io) |
 | BITBOX mobile scaffolds | Minimal Android and iOS WebView starter repos for quick app packaging. | [Android](https://github.com/taherdhanera/bitbox-scaffold-android) / [iOS](https://github.com/taherdhanera/bitbox-scaffold-ios) |
 
-Fastest proof: open [BountyOps Claim Guardian](https://github.com/taherdhanera/bountyops-claim-guardian-demo), then review the [live demo](https://taherdhanera.github.io/bountyops-claim-guardian-demo/) and architecture notes. It is the clearest public example of my current agentic operations work. Star or save it if the workflow is useful for GitHub, CI, or operations-agent builders.
+Fastest proof: open [BountyOps Claim Guardian](https://github.com/taherdhanera/bountyops-claim-guardian-demo), then review the [live demo](https://taherdhanera.github.io/bountyops-claim-guardian-demo/) and architecture notes. It is the clearest public example of my current agentic operations work.
+
+If you build GitHub, CI, inbox, bounty, recruiting, support, or release-ops agents, star or save the repo so the public-safe reference is easier for other builders to find.
 
 ## Focus
 
@@ -45,6 +49,7 @@ Public proof links:
 - [Architecture and no-spam policy](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/ARCHITECTURE.md)
 - [Use cases](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/USE_CASES.md)
 - [Workflow template](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/WORKFLOW_TEMPLATE.md)
+- [Share kit](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/SHARE_KIT.md)
 - [Discussions](https://github.com/taherdhanera/bountyops-claim-guardian-demo/discussions)
 - [Public demo manifest](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/PUBLIC_DEMO_MANIFEST.md)
 
