@@ -26,6 +26,19 @@ Fastest proof: open [BountyOps Claim Guardian](https://github.com/taherdhanera/b
 
 If you build GitHub, CI, inbox, bounty, recruiting, support, or release-ops agents, star or save [BountyOps Claim Guardian](https://github.com/taherdhanera/bountyops-claim-guardian-demo) so the public-safe reference is easier for other builders to find.
 
+## Featured Repositories
+
+GitHub profile pins are not always visible to every visitor, so these are the repos I would pin first:
+
+| Repo | Why open it |
+| --- | --- |
+| [bountyops-claim-guardian-demo](https://github.com/taherdhanera/bountyops-claim-guardian-demo) | Flagship public-safe agent ops demo with live dashboard, no-spam policy, workflow template, and replayable evidence. |
+| [taherdhanera.github.io](https://github.com/taherdhanera/taherdhanera.github.io) | Portfolio and demo hub for AI automation, product proof, and public work samples. |
+| [SecuritySkills](https://github.com/taherdhanera/SecuritySkills) | Security skills for AI coding agents grounded in OWASP, NIST, MITRE ATT&CK, and CIS. |
+| [claude-builders-bounty](https://github.com/taherdhanera/claude-builders-bounty) | Claude builder bounty board concept and proof surface for agent-builder workflows. |
+| [bitbox-scaffold-android](https://github.com/taherdhanera/bitbox-scaffold-android) | Minimal Android WebView scaffold for quickly packaging BITBOX-style apps. |
+| [bitbox-scaffold-ios](https://github.com/taherdhanera/bitbox-scaffold-ios) | Minimal iOS WKWebView scaffold for shipping BITBOX-style app wrappers. |
+
 ## What To Open First
 
 1. [Live BountyOps dashboard](https://taherdhanera.github.io/bountyops-claim-guardian-demo/) for the product-style output.
