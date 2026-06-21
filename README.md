@@ -43,6 +43,9 @@ Public proof links:
 
 - [Live dashboard](https://taherdhanera.github.io/bountyops-claim-guardian-demo/)
 - [Architecture and no-spam policy](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/ARCHITECTURE.md)
+- [Use cases](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/USE_CASES.md)
+- [Workflow template](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/WORKFLOW_TEMPLATE.md)
+- [Discussions](https://github.com/taherdhanera/bountyops-claim-guardian-demo/discussions)
 - [Public demo manifest](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/PUBLIC_DEMO_MANIFEST.md)
 
 ## Recent Proof Areas
