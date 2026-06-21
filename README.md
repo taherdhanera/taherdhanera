@@ -10,7 +10,7 @@ I work best where the problem is messy, external state changes quickly, and the 
 
 Flagship repo: **[BountyOps Claim Guardian](https://github.com/taherdhanera/bountyops-claim-guardian-demo)**, a public-safe reasoning-agent demo for GitHub bounty monitoring, CI checks, payout-risk triage, and no-spam claim protection.
 
-[Live demo](https://taherdhanera.github.io/bountyops-claim-guardian-demo/) / [Architecture](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/ARCHITECTURE.md) / [Workflow template](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/WORKFLOW_TEMPLATE.md)
+[Live demo](https://taherdhanera.github.io/bountyops-claim-guardian-demo/) / [Showcase](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/SHOWCASE.md) / [Architecture](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/ARCHITECTURE.md) / [Workflow template](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/WORKFLOW_TEMPLATE.md)
 
 Open to paid AI automation, agent workflow, full-stack product, and engineering-ops work where speed and proof matter.
 
@@ -18,7 +18,7 @@ Open to paid AI automation, agent workflow, full-stack product, and engineering-
 
 | Project | What it shows | Links |
 | --- | --- | --- |
-| BountyOps Claim Guardian | Reasoning-agent operations loop for GitHub, inbox-style signals, CI state, bounty claims, blocker detection, no-spam action policy, and audit checkpoints. | [repo](https://github.com/taherdhanera/bountyops-claim-guardian-demo) / [live demo](https://taherdhanera.github.io/bountyops-claim-guardian-demo/) |
+| BountyOps Claim Guardian | Reasoning-agent operations loop for GitHub, inbox-style signals, CI state, bounty claims, blocker detection, no-spam action policy, and audit checkpoints. | [repo](https://github.com/taherdhanera/bountyops-claim-guardian-demo) / [live demo](https://taherdhanera.github.io/bountyops-claim-guardian-demo/) / [showcase](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/SHOWCASE.md) |
 | Portfolio demo hub | Public landing surface for product, automation, and agent workflow proof. | [repo](https://github.com/taherdhanera/taherdhanera.github.io) / [site](https://taherdhanera.github.io) |
 | BITBOX mobile scaffolds | Minimal Android and iOS WebView starter repos for quick app packaging. | [Android](https://github.com/taherdhanera/bitbox-scaffold-android) / [iOS](https://github.com/taherdhanera/bitbox-scaffold-ios) |
 
@@ -37,8 +37,9 @@ If you build GitHub, CI, inbox, bounty, recruiting, support, or release-ops agen
 
 1. Open the [live BountyOps dashboard](https://taherdhanera.github.io/bountyops-claim-guardian-demo/).
 2. Scan the action queue and evidence lanes.
-3. Read the [agent decision model](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/ARCHITECTURE.md).
-4. Copy the [workflow template](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/WORKFLOW_TEMPLATE.md) if the pattern fits your own GitHub, CI, inbox, support, recruiting, or release workflow.
+3. Open the [showcase](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/SHOWCASE.md) for the fastest project tour.
+4. Read the [agent decision model](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/ARCHITECTURE.md).
+5. Copy the [workflow template](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/WORKFLOW_TEMPLATE.md) if the pattern fits your own GitHub, CI, inbox, support, recruiting, or release workflow.
 
 ## Focus
 
@@ -76,6 +77,7 @@ Reusable pattern:
 Public proof links:
 
 - [Live dashboard](https://taherdhanera.github.io/bountyops-claim-guardian-demo/)
+- [Showcase](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/SHOWCASE.md)
 - [Architecture and no-spam policy](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/ARCHITECTURE.md)
 - [Use cases](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/USE_CASES.md)
 - [Workflow template](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/WORKFLOW_TEMPLATE.md)
