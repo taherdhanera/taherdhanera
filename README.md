@@ -12,7 +12,7 @@ I work best where the problem is messy, the deadline is real, and the output has
 | Portfolio demo hub | Public landing surface for product, automation, and agent workflow proof. | [repo](https://github.com/taherdhanera/taherdhanera.github.io) / [site](https://taherdhanera.github.io) |
 | BITBOX mobile scaffolds | Minimal Android and iOS WebView starter repos for quick app packaging. | [Android](https://github.com/taherdhanera/bitbox-scaffold-android) / [iOS](https://github.com/taherdhanera/bitbox-scaffold-ios) |
 
-Fastest proof: open [BountyOps Claim Guardian](https://github.com/taherdhanera/bountyops-claim-guardian-demo), then review the [live demo](https://taherdhanera.github.io/bountyops-claim-guardian-demo/) and architecture notes. It is the clearest public example of my current agentic operations work.
+Fastest proof: open [BountyOps Claim Guardian](https://github.com/taherdhanera/bountyops-claim-guardian-demo), then review the [live demo](https://taherdhanera.github.io/bountyops-claim-guardian-demo/) and architecture notes. It is the clearest public example of my current agentic operations work. Star or save it if the workflow is useful for GitHub, CI, or operations-agent builders.
 
 ## Focus
 
@@ -38,6 +38,12 @@ BountyOps is the best repo to start with if you are interested in:
 - audit trails for long-running engineering work
 - practical AI automation beyond chat demos
 - production-minded agent UX where the output is a dashboard, checkpoint, and clear next action
+
+Public proof links:
+
+- [Live dashboard](https://taherdhanera.github.io/bountyops-claim-guardian-demo/)
+- [Architecture and no-spam policy](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/ARCHITECTURE.md)
+- [Public demo manifest](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/PUBLIC_DEMO_MANIFEST.md)
 
 ## Recent Proof Areas
 
