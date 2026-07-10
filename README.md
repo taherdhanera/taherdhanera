@@ -64,6 +64,16 @@ Fast-moving, ownership-heavy, evidence-driven. I turn ambiguous requirements int
 
 I care about signal quality: no spam, no inflated claims, no fake traction. The goal is useful public work that people can understand, run, adapt, and star because it saves them time.
 
+## Best Collaboration Fit
+
+- Async, written-first engineering with clear acceptance criteria
+- Scoped AI-agent, automation, API, and full-stack milestones
+- Repository issues and pull requests with tests and review evidence
+- Paid technical prototypes or take-home implementations evaluated from working code
+- Handoffs with setup notes, validation results, risks, and the next concrete action
+
+I work best where the result can be reviewed directly: a running demo, a focused pull request, an automated workflow, or a reproducible implementation artifact.
+
 ## Tech
 
 TypeScript, JavaScript, Python, React, Next.js, Node.js, GitHub CLI/API, browser automation, Gmail workflows, Vercel, CI triage, Markdown systems, API integrations, and automation orchestration.
