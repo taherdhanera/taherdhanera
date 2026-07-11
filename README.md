@@ -2,7 +2,7 @@
 
 [![Portfolio](https://img.shields.io/badge/portfolio-live-1168d8)](https://taherdhanera.github.io)
 [![Flagship](https://img.shields.io/badge/start-BountyOps%20Claim%20Guardian-177245)](https://github.com/taherdhanera/bountyops-claim-guardian-demo)
-[![Open](https://img.shields.io/badge/open-AI%20automation%20%2F%20agent%20workflows-5f6f82)](#contact)
+[![Work inquiry](https://img.shields.io/badge/work-async%20inquiry-5f6f82)](https://github.com/taherdhanera/taherdhanera/issues/new?template=work-inquiry.yml)
 
 I build AI automation, agent workflow systems, full-stack product demos, and engineering-ops tools that turn changing external state into clear decisions, scoped actions, and audit trails.
 
@@ -83,3 +83,5 @@ TypeScript, JavaScript, Python, React, Next.js, Node.js, GitHub CLI/API, browser
 Open to async, scoped AI automation, agent workflow, full-stack product, and engineering-ops work where fast execution and clear proof matter.
 
 Start with the [flagship demo](https://github.com/taherdhanera/bountyops-claim-guardian-demo) or the [portfolio hub](https://taherdhanera.github.io).
+
+For a scoped project, open an [async work inquiry](https://github.com/taherdhanera/taherdhanera/issues/new?template=work-inquiry.yml) with the goal, acceptance criteria, timeline, and budget. I evaluate opportunities in writing and prefer working-code or paid take-home assessment over live, phone, video, screen-share, or onsite interviews.
