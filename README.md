@@ -4,13 +4,13 @@
 [![Flagship](https://img.shields.io/badge/start-BountyOps%20Claim%20Guardian-177245)](https://github.com/taherdhanera/bountyops-claim-guardian-demo)
 [![Work inquiry](https://img.shields.io/badge/work-async%20inquiry-5f6f82)](https://github.com/taherdhanera/taherdhanera/issues/new?template=work-inquiry.yml)
 
-I build AI automation, agent workflow systems, full-stack product demos, and engineering-ops tools that turn changing external state into clear decisions, scoped actions, and audit trails.
+I am an applied AI engineer building reliable agent workflows, evaluation systems, full-stack automation, and engineering tools that turn changing external state into clear decisions, scoped actions, and audit trails.
 
 My strongest public surface right now is **[BountyOps Claim Guardian](https://github.com/taherdhanera/bountyops-claim-guardian-demo)**: a public-safe reasoning-agent demo for GitHub bounty monitoring, CI checks, payout-risk triage, no-spam claim protection, and checkpointed follow-up.
 
 **Fast path:** [live demo](https://taherdhanera.github.io/bountyops-claim-guardian-demo/) / [repo](https://github.com/taherdhanera/bountyops-claim-guardian-demo) / [quickstart](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/QUICKSTART.md) / [showcase](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/SHOWCASE.md) / [architecture](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/ARCHITECTURE.md)
 
-If you are building GitHub, CI, inbox, support, recruiting, bounty, or release-ops agents, start with BountyOps and star/save it if the pattern helps.
+If you are evaluating me for applied AI, agent, automation, or full-stack work, start with BountyOps: the running system, architecture, fixtures, and operating policy show how I scope uncertainty and ship verifiable behavior.
 
 ## Start Here
 
@@ -21,6 +21,23 @@ If you are building GitHub, CI, inbox, support, recruiting, bounty, or release-o
 | **SecuritySkills** | Open-source security skills for AI coding agents, grounded in OWASP, NIST, MITRE ATT&CK, and CIS. | [repo](https://github.com/taherdhanera/SecuritySkills) |
 | **Claude Builders Bounty** | Community bounty-board concept and proof surface for agent-builder workflows. | [repo](https://github.com/taherdhanera/claude-builders-bounty) |
 | **BITBOX mobile scaffolds** | Minimal Android and iOS WebView starter repos for fast app packaging. | [Android](https://github.com/taherdhanera/bitbox-scaffold-android) / [iOS](https://github.com/taherdhanera/bitbox-scaffold-ios) |
+
+## Applied AI Focus
+
+- Multi-step agents that combine tools, APIs, repository state, checks, and human feedback
+- Structured evaluation, confidence calibration, deterministic guardrails, and explicit missing evidence
+- Retrieval and evidence pipelines that keep model output grounded in current source data
+- Production-minded automation with retries, checkpoints, audit trails, and safe action boundaries
+- Full-stack delivery from workflow logic and APIs to reviewable interfaces and deployment evidence
+
+## What I Can Deliver
+
+| Engagement | Typical output |
+| --- | --- |
+| Agent workflow | A scoped multi-step agent with tools, structured outputs, safety boundaries, fixtures, and evaluation notes |
+| AI reliability pass | Failure taxonomy, regression cases, evidence contract, observability plan, and prioritized fixes |
+| Automation MVP | Working API or web flow with external integrations, tests, deployment notes, and an operator handoff |
+| Repository workflow | GitHub/CI automation with actionable triage, conservative write behavior, and resumable checkpoints |
 
 ## 90-Second Review Path
 
@@ -39,7 +56,7 @@ If you are building GitHub, CI, inbox, support, recruiting, bounty, or release-o
 - Generative media and creator workflow tools
 - Public demos with live proof, quickstarts, and implementation evidence
 
-## Why BountyOps Is Star-Worthy
+## Agent Pattern Demonstrated by BountyOps
 
 BountyOps is not just a dashboard. It demonstrates a repeatable agent pattern:
 
@@ -62,7 +79,7 @@ Useful entry points:
 
 Fast-moving, ownership-heavy, evidence-driven. I turn ambiguous requirements into scoped implementation, demos, validation notes, and follow-up artifacts that reviewers can verify quickly.
 
-I care about signal quality: no spam, no inflated claims, no fake traction. The goal is useful public work that people can understand, run, adapt, and star because it saves them time.
+I care about signal quality: no spam, no inflated claims, and no fake traction. The goal is useful public work that people can understand, run, adapt, and evaluate from direct evidence.
 
 ## Best Collaboration Fit
 
