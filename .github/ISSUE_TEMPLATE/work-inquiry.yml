@@ -1,0 +1,57 @@
+name: Async work inquiry
+description: Propose a scoped AI, automation, full-stack, or engineering-ops project.
+title: "[Work inquiry] "
+labels:
+  - work-inquiry
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reaching out. Please keep the opportunity written and scoped. I work asynchronously and evaluate from requirements, working code, or a paid take-home—not live, phone, video, screen-share, or onsite interviews.
+  - type: textarea
+    id: goal
+    attributes:
+      label: Goal
+      description: What outcome should the project deliver?
+      placeholder: Describe the user problem and desired result.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: List the concrete conditions that will prove completion.
+      placeholder: "- The workflow...\n- The deployment...\n- The tests..."
+    validations:
+      required: true
+  - type: input
+    id: timeline
+    attributes:
+      label: Timeline
+      description: Include the target start and delivery window.
+    validations:
+      required: true
+  - type: input
+    id: budget
+    attributes:
+      label: Budget and payment route
+      description: State the fixed budget or range and how payment will be handled.
+    validations:
+      required: true
+  - type: dropdown
+    id: evaluation
+    attributes:
+      label: Evaluation format
+      options:
+        - Written async review of prior work
+        - Paid take-home implementation
+        - Direct scoped engagement
+    validations:
+      required: true
+  - type: checkboxes
+    id: process
+    attributes:
+      label: Process agreement
+      options:
+        - label: I understand this inquiry must remain written and asynchronous, with no live or onsite interview requirement.
+          required: true
