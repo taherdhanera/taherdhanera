@@ -2,6 +2,8 @@
 
 [![Portfolio](https://img.shields.io/badge/portfolio-live-1168d8)](https://taherdhanera.github.io)
 [![Flagship](https://img.shields.io/badge/start-BountyOps%20Claim%20Guardian-177245)](https://github.com/taherdhanera/bountyops-claim-guardian-demo)
+[![Star BountyOps](https://img.shields.io/github/stars/taherdhanera/bountyops-claim-guardian-demo?style=flat&label=star%20BountyOps&color=gold)](https://github.com/taherdhanera/bountyops-claim-guardian-demo)
+[![Available](https://img.shields.io/badge/available-paid%20async%20builds-7c3aed)](https://github.com/taherdhanera/taherdhanera/issues/new?template=work-inquiry.yml)
 [![Work inquiry](https://img.shields.io/badge/work-async%20inquiry-5f6f82)](https://github.com/taherdhanera/taherdhanera/issues/new?template=work-inquiry.yml)
 
 I am an applied AI engineer building reliable agent workflows, evaluation systems, full-stack automation, and engineering tools that turn changing external state into clear decisions, scoped actions, and audit trails.
@@ -11,6 +13,10 @@ My strongest public surface right now is **[BountyOps Claim Guardian](https://gi
 **Fast path:** [live demo](https://taherdhanera.github.io/bountyops-claim-guardian-demo/) / [repo](https://github.com/taherdhanera/bountyops-claim-guardian-demo) / [quickstart](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/QUICKSTART.md) / [showcase](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/SHOWCASE.md) / [architecture](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/ARCHITECTURE.md)
 
 If you are evaluating me for applied AI, agent, automation, or full-stack work, start with BountyOps: the running system, architecture, fixtures, and operating policy show how I scope uncertainty and ship verifiable behavior.
+
+> **Available for paid async builds:** agent workflows, AI reliability, GitHub/Gmail automation, full-stack MVPs, generative-media tooling, and scoped engineering challenges. Send the goal, acceptance criteria, delivery window, and budget through the [written work-inquiry form](https://github.com/taherdhanera/taherdhanera/issues/new?template=work-inquiry.yml).
+>
+> If BountyOps is useful to you, [star the repository](https://github.com/taherdhanera/bountyops-claim-guardian-demo). It is the fastest way to support the project and helps other builders discover the pattern.
 
 ## Start Here
 
