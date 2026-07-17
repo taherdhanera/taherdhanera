@@ -39,6 +39,24 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: scope
+    attributes:
+      label: Preferred fixed-scope offer
+      options:
+        - 24-hour diagnosis or focused patch (USD 100–250)
+        - 48-hour automation, integration, or reliability fix (USD 200–500)
+        - 72-hour AI workflow, internal tool, or MVP slice (USD 350–900)
+        - Custom written scope
+    validations:
+      required: true
+  - type: checkboxes
+    id: payment
+    attributes:
+      label: Payment agreement
+      options:
+        - label: I can pay in fiat through an agreed payment route; this is not a token, credit, points, exposure, or speculative-reward offer.
+          required: true
+  - type: dropdown
     id: evaluation
     attributes:
       label: Evaluation format

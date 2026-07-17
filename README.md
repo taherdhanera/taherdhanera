@@ -18,6 +18,18 @@ If you are evaluating me for applied AI, agent, automation, or full-stack work, 
 >
 > If BountyOps is useful to you, [star the repository](https://github.com/taherdhanera/bountyops-claim-guardian-demo). It is the fastest way to support the project and helps other builders discover the pattern.
 
+## Fast Paid Async Builds
+
+Need a small result shipped quickly? I currently accept fixed-scope, written-first work paid in fiat through a mutually agreed payment route.
+
+| Delivery window | Fixed-scope offer | Typical budget |
+| --- | --- | --- |
+| **24 hours** | Repository/API diagnosis with a tested fix plan or focused patch | **USD 100–250** |
+| **48 hours** | GitHub/Gmail/CI automation, agent reliability fix, or integration repair | **USD 200–500** |
+| **72 hours** | Small AI workflow, internal tool, dashboard, or deployed MVP slice | **USD 350–900** |
+
+Every engagement needs written acceptance criteria, a confirmed fiat budget, and an agreed payout route before work begins. No unpaid trials, speculative compensation, tokens, or live interviews. [Open a paid async inquiry](https://github.com/taherdhanera/taherdhanera/issues/new?template=work-inquiry.yml).
+
 ## Start Here
 
 | Project | Why open it | Links |
