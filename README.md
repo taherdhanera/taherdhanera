@@ -1,122 +1,54 @@
 # Taher Dhanerawala
 
-[![Portfolio](https://img.shields.io/badge/portfolio-live-1168d8)](https://taherdhanera.github.io)
-[![Flagship](https://img.shields.io/badge/start-BountyOps%20Claim%20Guardian-177245)](https://github.com/taherdhanera/bountyops-claim-guardian-demo)
-[![Star BountyOps](https://img.shields.io/github/stars/taherdhanera/bountyops-claim-guardian-demo?style=flat&label=star%20BountyOps&color=gold)](https://github.com/taherdhanera/bountyops-claim-guardian-demo)
-[![Available](https://img.shields.io/badge/available-paid%20async%20builds-7c3aed)](https://github.com/taherdhanera/taherdhanera/issues/new?template=work-inquiry.yml)
-[![Work inquiry](https://img.shields.io/badge/work-async%20inquiry-5f6f82)](https://github.com/taherdhanera/taherdhanera/issues/new?template=work-inquiry.yml)
+### AI engineering, reliable automation and developer tooling
 
-I am an applied AI engineer building reliable agent workflows, evaluation systems, full-stack automation, and engineering tools that turn changing external state into clear decisions, scoped actions, and audit trails.
+I build tools and workflows that make failures easier to reproduce, decisions easier to audit, and changes easier to review. My work combines scoped implementation, regression tests and explicit limits on what has been verified.
 
-My strongest public surface right now is **[BountyOps Claim Guardian](https://github.com/taherdhanera/bountyops-claim-guardian-demo)**: a public-safe reasoning-agent demo for GitHub bounty monitoring, CI checks, payout-risk triage, no-spam claim protection, and checkpointed follow-up.
+**Start with:** [an executable tool](https://github.com/taherdhanera/codex-windows-crash-tracker) · [a merged contribution](https://github.com/Lead-Studios/veritix-web/pull/397) · [cross-platform CI](https://github.com/taherdhanera/claude-builders-bounty/actions/runs/36258792112)
 
-**Fast path:** [live demo](https://taherdhanera.github.io/bountyops-claim-guardian-demo/) / [repo](https://github.com/taherdhanera/bountyops-claim-guardian-demo) / [quickstart](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/QUICKSTART.md) / [showcase](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/SHOWCASE.md) / [architecture](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/ARCHITECTURE.md)
+## Selected work
 
-If you are evaluating me for applied AI, agent, automation, or full-stack work, start with BountyOps: the running system, architecture, fixtures, and operating policy show how I scope uncertainty and ship verifiable behavior.
+### Merged upstream
 
-> **Available for paid async builds:** agent workflows, AI reliability, GitHub/Gmail automation, full-stack MVPs, generative-media tooling, and scoped engineering challenges. Send the goal, acceptance criteria, delivery window, and budget through the [written work-inquiry form](https://github.com/taherdhanera/taherdhanera/issues/new?template=work-inquiry.yml).
->
-> If BountyOps is useful to you, [star the repository](https://github.com/taherdhanera/bountyops-claim-guardian-demo). It is the fastest way to support the project and helps other builders discover the pattern.
+**[VeriTix — payment instructions and status handling](https://github.com/Lead-Studios/veritix-web/pull/397)**
 
-## Fast Paid Async Builds
+Merged by an upstream maintainer on July 22, 2026. Added a Stellar payment interface with QR/copy controls, status polling and expiry/retry states. Focused component tests cover rendering, paid-state redirects and expired-payment retries.
 
-Need a small result shipped quickly? I currently accept fixed-scope, written-first work paid in fiat through a mutually agreed payment route.
+### Open contributions
 
-| Delivery window | Fixed-scope offer | Typical budget |
+These submissions are still open, not accepted upstream. Status reviewed October 3, 2026.
+
+| Contribution | Engineering focus | Verification |
 | --- | --- | --- |
-| **24 hours** | Repository/API diagnosis with a tested fix plan or focused patch | **USD 100–250** |
-| **48 hours** | GitHub/Gmail/CI automation, agent reliability fix, or integration repair | **USD 200–500** |
-| **72 hours** | Small AI workflow, internal tool, dashboard, or deployed MVP slice | **USD 350–900** |
+| [Destructive-command hook for Claude Code](https://github.com/claude-builders-bounty/claude-builders-bounty/pull/2271) | Structured denial responses, regression cases and a settings-preserving installer. A guardrail, not a security sandbox. | [Ubuntu + macOS CI](https://github.com/taherdhanera/claude-builders-bounty/actions/runs/36258792112) on the submitted commit. |
+| [n8n GitHub → Claude → Discord workflow](https://github.com/claude-builders-bounty/claude-builders-bounty/pull/2691) | Bounded pagination, retries, and deterministic checks using the real n8n expression resolver. | [Validation and offline smoke CI](https://github.com/taherdhanera/claude-builders-bounty/actions/runs/36719512945). Live Anthropic/Discord execution is not yet verified. |
+| [StarbaseDB behavior tests and repairs](https://github.com/outerbase/starbasedb/pull/204) | JSON import validation, asynchronous cron delivery and row-level security paths. | Reproduction steps and scoped local test results documented in the PR. |
 
-Every engagement needs written acceptance criteria, a confirmed fiat budget, and an agreed payout route before work begins. No unpaid trials, speculative compensation, tokens, or live interviews. [Open a paid async inquiry](https://github.com/taherdhanera/taherdhanera/issues/new?template=work-inquiry.yml).
+## Original projects
 
-## Start Here
+**[Codex Windows Crash Tracker](https://github.com/taherdhanera/codex-windows-crash-tracker)**
 
-| Project | Why open it | Links |
-| --- | --- | --- |
-| **BountyOps Claim Guardian** | Flagship agent-ops demo: live evidence lanes, action queue, no-spam policy, blocker detection, and compact checkpoints. | [repo](https://github.com/taherdhanera/bountyops-claim-guardian-demo) / [live demo](https://taherdhanera.github.io/bountyops-claim-guardian-demo/) / [quickstart](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/QUICKSTART.md) |
-| **Portfolio demo hub** | Product-style public surface for AI automation, product proof, and engineering workflow demos. | [site](https://taherdhanera.github.io) / [repo](https://github.com/taherdhanera/taherdhanera.github.io) |
-| **SecuritySkills** | Open-source security skills for AI coding agents, grounded in OWASP, NIST, MITRE ATT&CK, and CIS. | [repo](https://github.com/taherdhanera/SecuritySkills) |
-| **Claude Builders Bounty** | Community bounty-board concept and proof surface for agent-builder workflows. | [repo](https://github.com/taherdhanera/claude-builders-bounty) |
-| **BITBOX mobile scaffolds** | Minimal Android and iOS WebView starter repos for fast app packaging. | [Android](https://github.com/taherdhanera/bitbox-scaffold-android) / [iOS](https://github.com/taherdhanera/bitbox-scaffold-ios) |
+An offline, read-only PowerShell diagnostic collector with sanitized JSON reports, Pester privacy checks and a reproducible incident format. No automatic uploads. Unofficial; not affiliated with OpenAI.
 
-## Applied AI Focus
+[Source and setup](https://github.com/taherdhanera/codex-windows-crash-tracker#collect-a-sanitized-report) · [Tests / CI](https://github.com/taherdhanera/codex-windows-crash-tracker/actions/workflows/powershell.yml) · [Privacy guide](https://github.com/taherdhanera/codex-windows-crash-tracker/blob/main/docs/privacy.md)
 
-- Multi-step agents that combine tools, APIs, repository state, checks, and human feedback
-- Structured evaluation, confidence calibration, deterministic guardrails, and explicit missing evidence
-- Retrieval and evidence pipelines that keep model output grounded in current source data
-- Production-minded automation with retries, checkpoints, audit trails, and safe action boundaries
-- Full-stack delivery from workflow logic and APIs to reviewable interfaces and deployment evidence
+**[BountyOps Claim Guardian](https://github.com/taherdhanera/bountyops-claim-guardian-demo)**
 
-## What I Can Deliver
+A static, sanitized workflow reference for evidence tracking, action queues and checkpointed follow-up. The public HTML/JSON demo illustrates the decision policy; it is not a deployed autonomous agent or a live payout feed.
 
-| Engagement | Typical output |
-| --- | --- |
-| Agent workflow | A scoped multi-step agent with tools, structured outputs, safety boundaries, fixtures, and evaluation notes |
-| AI reliability pass | Failure taxonomy, regression cases, evidence contract, observability plan, and prioritized fixes |
-| Automation MVP | Working API or web flow with external integrations, tests, deployment notes, and an operator handoff |
-| Repository workflow | GitHub/CI automation with actionable triage, conservative write behavior, and resumable checkpoints |
+[View the static demo](https://taherdhanera.github.io/bountyops-claim-guardian-demo/) · [Architecture](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/ARCHITECTURE.md)
 
-## 90-Second Review Path
+## How I work
 
-1. Open the [BountyOps live demo](https://taherdhanera.github.io/bountyops-claim-guardian-demo/).
-2. Scan the action queue, evidence lanes, and checkpoint output.
-3. Read the [showcase](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/SHOWCASE.md) for the short tour.
-4. Open the [architecture](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/ARCHITECTURE.md) for the agent decision policy.
-5. Copy the [workflow template](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/WORKFLOW_TEMPLATE.md) if the pattern fits your own workflow.
+- Reproduce the problem before changing the implementation.
+- Keep patches focused, document trade-offs and add regression coverage.
+- Separate tested behavior, assumptions and unresolved integration checks.
+- Keep secrets and private user data out of public examples.
 
-## What I Build
+**Tools used in this work:** TypeScript / JavaScript, Node.js, React / Next.js, SQL, Bash, PowerShell, GitHub Actions and n8n.
 
-- GitHub, Gmail, CI, browser, payout, and workflow-monitoring agents
-- AI-assisted engineering and code-review workflows
-- Full-stack web apps and SaaS prototypes
-- Bounty, issue, pull request, and release-ops automation
-- Generative media and creator workflow tools
-- Public demos with live proof, quickstarts, and implementation evidence
+## Current focus
 
-## Agent Pattern Demonstrated by BountyOps
+Funded open-source bounties, contributor rewards and written/asynchronous technical challenges with clear acceptance criteria. **Not taking freelance or private-client projects.**
 
-BountyOps is not just a dashboard. It demonstrates a repeatable agent pattern:
-
-- watch live external state;
-- normalize evidence into issue, PR, CI, inbox, and payout lanes;
-- decide whether to fix, comment, wait, draft, or checkpoint;
-- take only evidence-backed action;
-- leave a compact report that the next run can trust.
-
-Useful entry points:
-
-- [Live dashboard](https://taherdhanera.github.io/bountyops-claim-guardian-demo/)
-- [Showcase](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/SHOWCASE.md)
-- [Architecture and no-spam policy](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/ARCHITECTURE.md)
-- [Operations playbook](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/OPERATIONS_PLAYBOOK.md)
-- [Workflow template](https://github.com/taherdhanera/bountyops-claim-guardian-demo/blob/master/WORKFLOW_TEMPLATE.md)
-- [Public release](https://github.com/taherdhanera/bountyops-claim-guardian-demo/releases/tag/v0.1.0-public-demo)
-
-## Working Style
-
-Fast-moving, ownership-heavy, evidence-driven. I turn ambiguous requirements into scoped implementation, demos, validation notes, and follow-up artifacts that reviewers can verify quickly.
-
-I care about signal quality: no spam, no inflated claims, and no fake traction. The goal is useful public work that people can understand, run, adapt, and evaluate from direct evidence.
-
-## Best Collaboration Fit
-
-- Async, written-first engineering with clear acceptance criteria
-- Scoped AI-agent, automation, API, and full-stack milestones
-- Repository issues and pull requests with tests and review evidence
-- Paid technical prototypes or take-home implementations evaluated from working code
-- Handoffs with setup notes, validation results, risks, and the next concrete action
-
-I work best where the result can be reviewed directly: a running demo, a focused pull request, an automated workflow, or a reproducible implementation artifact.
-
-## Tech
-
-TypeScript, JavaScript, Python, React, Next.js, Node.js, GitHub CLI/API, browser automation, Gmail workflows, Vercel, CI triage, Markdown systems, API integrations, and automation orchestration.
-
-## Contact
-
-Open to async, scoped AI automation, agent workflow, full-stack product, and engineering-ops work where fast execution and clear proof matter.
-
-Start with the [flagship demo](https://github.com/taherdhanera/bountyops-claim-guardian-demo) or the [portfolio hub](https://taherdhanera.github.io).
-
-For a scoped project, open an [async work inquiry](https://github.com/taherdhanera/taherdhanera/issues/new?template=work-inquiry.yml) with the goal, acceptance criteria, timeline, and budget. I evaluate opportunities in writing and prefer working-code or paid take-home assessment over live, phone, video, screen-share, or onsite interviews.
+Have a relevant published task? [Share its issue and reward rules](https://github.com/taherdhanera/taherdhanera/issues/new?template=work-inquiry.yml). Please use public project details only; sharing a task does not establish assignment or acceptance.

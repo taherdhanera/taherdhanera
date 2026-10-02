@@ -1,75 +1,52 @@
-name: Async work inquiry
-description: Propose a scoped AI, automation, full-stack, or engineering-ops project.
-title: "[Work inquiry] "
+name: Funded open-source task
+description: Share a published bounty, contributor reward or asynchronous technical challenge.
+title: "[Funded task] "
 labels:
   - work-inquiry
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for reaching out. Please keep the opportunity written and scoped. I work asynchronously and evaluate from requirements, working code, or a paid take-home—not live, phone, video, screen-share, or onsite interviews.
-  - type: textarea
-    id: goal
-    attributes:
-      label: Goal
-      description: What outcome should the project deliver?
-      placeholder: Describe the user problem and desired result.
-    validations:
-      required: true
-  - type: textarea
-    id: acceptance
-    attributes:
-      label: Acceptance criteria
-      description: List the concrete conditions that will prove completion.
-      placeholder: "- The workflow...\n- The deployment...\n- The tests..."
-    validations:
-      required: true
+        I am focused on funded open-source tasks and contributor rewards, not freelance or private-client projects. Work must be written and asynchronous.
+
+        This issue is public. Link the original task and official reward rules. Do not post credentials, private project data, personal payment details, bank information or identity documents. An inquiry is not a claim, assignment or agreement to perform work.
   - type: input
-    id: timeline
+    id: task_url
     attributes:
-      label: Timeline
-      description: Include the target start and delivery window.
+      label: Original task URL
+      description: Link the specific open issue, contributor reward or technical challenge.
+      placeholder: https://github.com/owner/repository/issues/123
     validations:
       required: true
-  - type: input
-    id: budget
-    attributes:
-      label: Budget and payment route
-      description: State the fixed budget or range and how payment will be handled.
-    validations:
-      required: true
-  - type: dropdown
+  - type: textarea
     id: scope
     attributes:
-      label: Preferred fixed-scope offer
-      options:
-        - 24-hour diagnosis or focused patch (USD 100–250)
-        - 48-hour automation, integration, or reliability fix (USD 200–500)
-        - 72-hour AI workflow, internal tool, or MVP slice (USD 350–900)
-        - Custom written scope
+      label: Scope and acceptance criteria
+      description: What must be delivered, and how will the sponsor verify completion?
     validations:
       required: true
-  - type: checkboxes
-    id: payment
+  - type: textarea
+    id: reward
     attributes:
-      label: Payment agreement
-      options:
-        - label: I can pay in fiat through an agreed payment route; this is not a token, credit, points, exposure, or speculative-reward offer.
-          required: true
-  - type: dropdown
-    id: evaluation
+      label: Published reward and sponsor rules
+      description: Link the official cash amount, sponsor authority, eligibility and payment-timing rules. Do not include personal payment details.
+    validations:
+      required: true
+  - type: textarea
+    id: availability
     attributes:
-      label: Evaluation format
-      options:
-        - Written async review of prior work
-        - Paid take-home implementation
-        - Direct scoped engagement
+      label: Availability and deadline
+      description: State current assignment or reservation rules, existing submissions, deadline and any required hardware or access.
     validations:
       required: true
   - type: checkboxes
     id: process
     attributes:
-      label: Process agreement
+      label: Fit and privacy
       options:
-        - label: I understand this inquiry must remain written and asynchronous, with no live or onsite interview requirement.
+        - label: This is a published open-source task or contributor reward, not private-client work, a freelance marketplace offer or an unpaid hiring test.
+          required: true
+        - label: The process is written and asynchronous, without required calls, interviews, camera, microphone or onsite attendance.
+          required: true
+        - label: I have included public project information only, with no secrets, payment credentials or identity documents.
           required: true
